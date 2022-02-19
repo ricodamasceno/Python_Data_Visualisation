@@ -1,4 +1,4 @@
-# Python_Data_Visualisation
+# Python_Data_Visualization
   Data Visualization Explorando com Seaborn
   
 # Projeto
