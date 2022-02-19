@@ -2,7 +2,7 @@
   Data Visualization Explorando com Seaborn
   
 # Projeto
-  Este projetoe trata de gorjetas, e sabemos que no Brasil as pessoas pagam 10% do valor da conta como gorjeta ou caixinha dos funcionários, de forma opcional. Em outros países, este valor é livre e fica a critério do cliente, ou seja, não há uma porcentagem exata estabelecida.
+  Este projeto se trata de gorjetas, e sabemos que no Brasil as pessoas pagam 10% do valor da conta como gorjeta ou caixinha dos funcionários, de forma opcional. Em outros países, este valor é livre e fica a critério do cliente, ou seja, não há uma porcentagem exata estabelecida.
   
   Como não poderemos analisar as gorjetas dadas por todas as pessoas do mundo, fizemos uma amostra com grupo de pessoas ou registros na base de dados.
   
